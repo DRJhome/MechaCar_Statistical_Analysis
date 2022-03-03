@@ -19,5 +19,11 @@ Lot Test 1-3
 <img width="872" alt="image" src="https://user-images.githubusercontent.com/91449005/156517272-0e7eaa8c-ccd4-4748-ae25-067476d06ecc.png">
 <img width="890" alt="image" src="https://user-images.githubusercontent.com/91449005/156517340-928dda94-ab36-4bd7-a1c3-1bb2f91b2d12.png">
 
+## Mechacar VS Competition
+To design a study for comapring the performance of Mechacar to the competitions vehicles I would use the factors below:
++ MPG
++ Cost of maintenance
++ ride quality
+I would need to use a t-test to compare datasets. I would then need to group by types of cars to compare the maintenance, MPG, and ride quality of like cars.
 
 
