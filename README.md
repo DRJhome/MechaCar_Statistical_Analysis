@@ -13,14 +13,4 @@ T-Tests on Suspension Coils
 After review of the test results for the suspension coils, all manufacturing lots shows they are not statistically different from the population median. 
 Initial Test 
 Lot Test 1-3
- 
-
-
-
-
-
-
-
-
-
 ![image](https://user-images.githubusercontent.com/91449005/153810525-981355f6-f2b2-4197-b98a-f2c9318010f9.png)
